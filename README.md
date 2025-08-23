@@ -1,4 +1,4 @@
 Velo
 ====
 
-Move to a private Repo.
+Moved to a private Repo.
